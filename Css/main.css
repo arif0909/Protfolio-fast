@@ -1,0 +1,216 @@
+* {
+    margin: 0%;
+}
+
+/*Section 01*/
+.featured {
+    background-color: #f4f6f6;
+    height: 200px;
+    margin: 0%;
+}
+
+.featured h2 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+    padding-top: 18px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.featur-logo-box {
+    display: flex;
+    margin-left: 500px;
+    align-items: baseline;
+    margin-top: 30px;
+}
+
+/*Section 02*/
+.body-main-part {
+    margin-top: 50px;
+}
+
+.artical h2 {
+    text-align: center;
+    font-size: 2.5rem;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.artical p {
+    text-align: center;
+    font-size: 18px;
+    margin-top: 20px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.about-me {
+    margin-left: 332px;
+    margin-top: 70px;
+    display: flex;
+
+}
+
+.about-box {
+    background-color: #075aae;
+    padding: 20px;
+    width: 350px;
+    margin-right: 30px;
+
+}
+
+.about-box h1 {
+    text-align: center;
+    margin-top: 20px;
+    font-family: 'Montserrat', sans-serif;
+    color: #f4f6f6;
+}
+
+.about-box p {
+    font-size: 20px;
+    margin-top: 30px;
+    color: #f4f6f6;
+    text-align: center;
+}
+
+.about-box button {
+    margin-top: 40px;
+    height: 40px;
+    width: 145px;
+    background-color: #075aae;
+    border-color: #f4f6f6;
+    color: #f4f6f6;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+}
+
+/*Section 03*/
+.advice {
+    margin-top: 20px;
+    display: flex;
+    padding: 20px;
+    margin-left: 310px;
+}
+
+.add {
+    background-color: #f4f6f6;
+    width: 404px;
+    padding: 25px;
+}
+
+.add h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+}
+
+.add p {
+    margin-top: 18px;
+    font-size: 18px;
+}
+
+.add button {
+    margin-top: 30px;
+    background-color: #075aae;
+    color: #f4f6f6;
+    border: none;
+    padding: 13px;
+    width: 115px;
+    font-size: 18px;
+}
+
+.books {
+    margin-left: 30px;
+    background-color: #f4f6f6;
+    width: 700px;
+    padding: 25px;
+    display: flex;
+}
+
+.books h3 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+}
+
+.backg img {
+    width: 160px;
+    height: 290px;
+}
+
+.book-about p {
+    margin-top: 15px;
+    font-size: 18px;
+}
+
+.book-about button {
+    margin-top: 30px;
+    background-color: #075aae;
+    color: #f4f6f6;
+    border: none;
+    padding: 13px;
+    width: 150px;
+    font-size: 18px;
+}
+
+/*Section 04*/
+.Testimonial {
+    margin-top: 40px;
+    background-image: url(../image/testimonials-free-img.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 590px;
+}
+
+.test-bg {
+    width: 310px;
+    margin-left: 720px;
+    padding: 185px;
+
+}
+
+.test-bg h3 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+}
+
+.test-bg p {
+    margin-top: 40px;
+    font-size: 22px;
+}
+
+/*Section 05*/
+.boi {
+    margin-left: 376px;
+    margin-top: 110px;
+    display: flex;
+}
+
+.story {
+    width: 500px;
+    padding: 40px;
+    background-color: aliceblue;
+}
+
+.story h2 {
+    font-size: 30px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.story p {
+    font-size: 22px;
+    margin-top: 30px;
+}
+
+.story button {
+    margin-top: 40px;
+    background-color: #075aae;
+    width: 250px;
+    font-size: 18px;
+    border: none;
+    color: #f4f6f6;
+    font-style: normal;
+    font-family: 'Montserrat', sans-serif;
+    padding: 15px;
+}
+
+.phot img {
+    width: 400px;
+
+}
